@@ -1,0 +1,2 @@
+test 1commit lan 1
+test 1commit lan 2 da duoc sua
